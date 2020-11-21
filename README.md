@@ -1,4 +1,4 @@
-# RML UI plugin for Lumix Engine
+# RML UI plugin for Phantasm-engine
 
 ![Screenshot](screenshot.png)
 
